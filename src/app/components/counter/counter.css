@@ -1,0 +1,23 @@
+.counter-btn {
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.counter-btn.increment-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.counter-btn.decrement-btn {
+    background-color: #f44336;
+    color: white;
+}
+
+.counter-btn.reset-btn {
+    background-color: #008CBA;
+    color: white;
+}
